@@ -1,0 +1,20 @@
+// Este algoritmo transforma uma distância em kilometros em milhas
+
+import java.util.Scanner;
+
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    Scanner ler = new Scanner(System.in);
+	    float Km;
+	    float dM;
+	    
+		System.out.println("Digite a distância em Km ");
+		Km = ler.nextFloat();
+		
+		dM = (Km / 1.609f);
+		
+		System.out.printf("A distância em milhas é %.2f", dM);
+	}
+}
