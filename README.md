@@ -14,7 +14,7 @@ A organização será feita em ordem crescente de dificuldade sendo marcados com
 ###  Técnologia
 
 <p display="inline-block">
-  <img width="48" src=https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="c-logo"/>
+  <img width="48" src=https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="java-logo"/>
   
 
 
